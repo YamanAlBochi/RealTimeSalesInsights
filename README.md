@@ -22,4 +22,4 @@ After the meeting is conducted with the IT head office, the sales director is pl
 
 
 
-Note: all invoice sales records are directly uploaded to MySql in the company's Sales Management system (OLAT).
+Note: all invoice sales records are directly uploaded to MySql in the company's Sales Management system (OLAT), around 150230 Sales Transctions.
