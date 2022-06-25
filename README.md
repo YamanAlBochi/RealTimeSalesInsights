@@ -8,5 +8,4 @@ The sales director decides to invest in a Data Analysis project to handle these 
 from the best business experts and practitioners in the field. 
 
 
-
-
+Aims grid will be included in the project.
