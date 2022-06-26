@@ -13,10 +13,8 @@ After the meeting is conducted with the IT head office, the sales director is pl
 
 3. Performing Data Analysis using SQL: 
 
-
-
-
-
+Performed key SQL queries to answer the Sales Direcotr questions: 
+- 
 
 
 
