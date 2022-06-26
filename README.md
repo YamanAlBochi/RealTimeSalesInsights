@@ -14,6 +14,8 @@ After the meeting is conducted with the IT head office, the sales director is pl
 3. Performing Data Analysis using SQL: 
 
 The Data handled to me consists of 5 tables; Products, transactions, customers, date, and markets. For around 160,000 rows and 17 columns.
+-Performed left and right inner joins queries to gather data.
+-Answered Stakeholders multiple questions with SQL queries, then exported an Excel file for revision.
 
 
 
