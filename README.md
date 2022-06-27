@@ -21,7 +21,7 @@ Performing joins queries to find the patterns in our data:
 -After quering the tables together, we have the sum of sales in given 1st year for around 33,645,2114$. The sum of sales in the 2nd year came to an estimate of 14,223,5559$ in revenue.
 -Performed SQL queries to find out the sum and distinct product of sales in one location, it came to 2,463,024$ and the product001 the most popular.
 
-4. Data Cleaning with PowerBi:
+4. Data Cleaning and ETL with PowerBi:
 
 
 
