@@ -16,8 +16,8 @@ After the meeting is conducted with the IT head office, the sales director is pl
 The Data handled to me consists of 5 tables; Products, transactions, customers, date, and markets. an estimate of 160,000 rows and 17 columns.
 -Performed left and right inner joins queries to gather data.
 -Answered Stakeholders multiple questions with SQL queries, then exported an Excel file to him/her for revision.
--After quering the tables together, we have the sum of sales in given 1st year for around 33,645,2114$, the sum of sales in the 2nd year around 14,223,5559$ in revenue.
-- Performed SQL queries to find out the sum and distinct product of sales in one location, it came to 2,463,024$ and the product001 the most popular.
+-After quering the tables together, we have the sum of sales in given 1st year for around 33,645,2114$ the sum of sales in the 2nd year around 14,223,5559$ in revenue.
+-Performed SQL queries to find out the sum and distinct product of sales in one location, it came to 2,463,024$ and the product001 the most popular.
 
 
 
