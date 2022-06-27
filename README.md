@@ -22,6 +22,7 @@ Performing joins queries to find the patterns in our data:
 
 4. Data Cleaning and ETL with PowerBi:
 
+This process is also known as data munging or data wrangling. We will do currency normalization, handling invalid values etc.
 
 
 
