@@ -29,4 +29,4 @@ The Dashboard will be attached in the repository for review and sales estimates.
 
 
 
-Note: all invoice sales records are directly uploaded to MySql in the company's Sales Management system (OLAT), around 150230 Sales Transctions.
+Note: all invoice sales records are directly uploaded to MySql in the company's Sales Management system (OLAT), around 150230 Sales
