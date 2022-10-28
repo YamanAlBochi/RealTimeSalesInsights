@@ -20,11 +20,11 @@ Performing joins queries to find the patterns in our data:
 -After quering the tables together, we have the sum of sales in given 1st year for around 33,645,2114$.
 -Performed SQL queries to find out the sum and distinct product of sales in one location, it came to 2,463,024$ and the product001 the most popular.
 
-4. Data Cleaning and ETL with PowerBi:
+4. Data Cleaning and ETL with Power BI:
 
 This process is also known as data munging or data wrangling. We will do currency normalization, handling invalid values etc.
 
-5. Data Visualization with PoweBi:
+5. Data Visualization with PoweR bI:
 The Dashboard will be attached in the repository for review and sales estimates.
 
 
