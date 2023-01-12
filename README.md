@@ -25,7 +25,7 @@ Performing joins queries to find the patterns in our data:
 This process is also known as data munging or data wrangling. We will do currency normalization, handling invalid values etc.
 
 5. Data Visualization with PoweR bI:
-The Dashboard will be attached in the repository for review and sales estimates.
+The Dashboard will be attached in the repository for review and sales estimates
 
 
 
